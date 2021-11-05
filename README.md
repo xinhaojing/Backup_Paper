@@ -1,11 +1,11 @@
 # Backup_Paper
 
 ##技术
-- 基于浏览器缓存机制的JS投毒攻击（XHJ）
-- 浅析浏览器缓存机制（XHJ）
-- 域名前置技术概述(XHJ)
-- 基于网络欺骗与浏览器指纹的WEB攻击溯源(XHJ)
-- 浅析恶意软件通信技术: 基于DoH的C2信道(XHJ)
+- 基于浏览器缓存机制的JS投毒攻击（XHJ）2017
+- 浅析浏览器缓存机制（XHJ）2017
+- 域名前置技术概述(XHJ) 2017
+- 基于网络欺骗与浏览器指纹的WEB攻击溯源(XHJ)   2020
+- 浅析恶意软件通信技术: 基于DoH的C2信道(XHJ)  2021
 
 ##论文
 - Poster: Identify and Track Web Attacker Based on Deceptive Technology and Browser Fingerprint. // IEEE Symposium on Security and Privacy (IEEE S&P'17)  2017
