@@ -5,6 +5,7 @@
 - 浅析浏览器缓存机制（XHJ）
 - 域名前置技术概述(XHJ)
 - 基于网络欺骗与浏览器指纹的WEB攻击溯源(XHJ)
+- 浅析恶意软件通信技术: 基于DoH的C2信道(XHJ)
 
 ##论文
 - Poster: Identify and Track Web Attacker Based on Deceptive Technology and Browser Fingerprint. // IEEE Symposium on Security and Privacy (IEEE S&P'17)  2017
