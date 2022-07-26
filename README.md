@@ -6,6 +6,7 @@
 - 域名前置技术概述(XHJ) 2017
 - 基于网络欺骗与浏览器指纹的WEB攻击溯源(XHJ)   2020
 - 浅析恶意软件通信技术: 基于DoH的C2信道(XHJ)  2021
+- 基于追踪标记的WAF设计思路(XHJ) 2022
 
 ##论文
 - Poster: Identify and Track Web Attacker Based on Deceptive Technology and Browser Fingerprint. // IEEE Symposium on Security and Privacy (IEEE S&P'17)  2017
